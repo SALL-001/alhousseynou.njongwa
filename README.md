@@ -63,9 +63,11 @@ Mon objectif : devenir un **développeur complet (Full Stack & Logiciel)** capab
 ---
 
 ### 🧮 Statistiques GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ton-nom-github&show_icons=true&theme=radical" alt="Stats GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-nom-github&theme=radical" alt="Streak Stats"/>
+  <!-- Remplace <TON_PSEUDO> par ton pseudo GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=<TON_SALL-001>&show_icons=true&theme=radical" alt="Stats GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<TON_SALL-001>&theme=radical" alt="Streak Stats (peut être indisponible)"/>
 </p>
 
 ---
