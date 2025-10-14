@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, moi c’est Alhousseynou SALL</h1>
+<h1 align="center">Alhousseynou SALL</h1>
 <h3 align="center">Développeur Logiciel | Étudiant en L3 Génie Logiciel à l’ISI Keur Massar</h3>
 
 ---
